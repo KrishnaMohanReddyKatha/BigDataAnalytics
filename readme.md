@@ -1,9 +1,9 @@
 find_mutual_friends.py:
-			Spark job to find mutual friends given a person and his friends dats. Data file used : soc-LiveJournal1Adj.txt
+			Spark job to find mutual friends given a person and his friends data. Data file used: soc-LiveJournal1Adj.txt
 
 find_top_ten_mutual_friends_with_friendsInfo.py:
 			Find top-10 friend pairs by their total number of common friends. For each top-10 friend pair, print detailed information in decreasing order of total number of common friends. 
-			DatFiles used : soc-LiveJournal1Adj.txt, Userdata.txt
+			DataFiles used : soc-LiveJournal1Adj.txt, Userdata.txt
 
 movieRatings.py:
 			Spark job
